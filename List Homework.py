@@ -6,9 +6,7 @@ print(Fruits)
 
 #print the first, third, and last color in the list.
 colors = ['red', 'blue', 'green', 'yellow', 'purple']
-print(colors[0])
-print(colors[2])
-print(colors[4])
+print(f"{colors[0]}\n {colors[2]}\n {colors[4]}")
 
 #Change the second item to 25 and add 60 to the end of the list. Print the modified list.
 numbers = [10, 20, 30, 40, 50]
