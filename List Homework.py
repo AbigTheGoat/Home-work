@@ -16,7 +16,6 @@ print(numbers)
 
 #create a new list subset containing only the first three names. Print subset.
 names = ['Alice', 'Bob', 'Charlie', 'David', 'Emma']
-subset = ['Alice', 'Bob', 'Charlie']
 print(names[0:3])
 
 #reate an empty list called shopping_cart. Add the items 'milk', 'bread', and 'eggs' to it using the .append() method. Then use .extend() to add ['butter', 'cheese'] to the list. Print the final list.
